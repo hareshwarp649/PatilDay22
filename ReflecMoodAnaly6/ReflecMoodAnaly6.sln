@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflecMoodAnaly6", "ReflecMoodAnaly6.csproj", "{2BB0CE8B-C351-40B9-8AC6-5B84A872C061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectorTest6", "..\ReflectorTest6\ReflectorTest6.csproj", "{36EC670C-4B4D-40F1-9180-12C84C2348FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB0CE8B-C351-40B9-8AC6-5B84A872C061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB0CE8B-C351-40B9-8AC6-5B84A872C061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB0CE8B-C351-40B9-8AC6-5B84A872C061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB0CE8B-C351-40B9-8AC6-5B84A872C061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EC670C-4B4D-40F1-9180-12C84C2348FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EC670C-4B4D-40F1-9180-12C84C2348FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EC670C-4B4D-40F1-9180-12C84C2348FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EC670C-4B4D-40F1-9180-12C84C2348FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83DDAF1-C9E6-48FF-BC5F-4CF92D907A2A}
+	EndGlobalSection
+EndGlobal
