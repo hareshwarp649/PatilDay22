@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f33ce5d9-f31f-42e9-9214-5f9e6b888628": {
+      "ProjectGuid": "f33ce5d9-f31f-42e9-9214-5f9e6b888628",
+      "DisplayName": "ReflectMoodAnaly7",
+      "ColorIndex": 0
+    },
+    "a0f6f1f3-05d5-411a-a252-a12a4eb42318": {
+      "ProjectGuid": "a0f6f1f3-05d5-411a-a252-a12a4eb42318",
+      "DisplayName": "ReflectionTest7",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
